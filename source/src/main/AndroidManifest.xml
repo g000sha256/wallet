@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="ru.g000sha256.wallet"
+    android:installLocation="internalOnly">
+    <application
+        android:name="ru.g000sha256.wallet.MainApplication"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_app_rounded"
+        android:label="@string/app"
+        android:roundIcon="@drawable/ic_app_circle"
+        android:theme="@style/Theme.App"
+        tools:remove="android:appComponentFactory">
+        <activity
+            android:name="ru.g000sha256.wallet.MainActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

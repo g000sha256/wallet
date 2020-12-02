@@ -1,0 +1,16 @@
+<resources>
+    <color name="black_80">#CC000000</color>
+    <color name="gray33">#333333</color>
+    <color name="gray33_95">#F2333333</color>
+    <color name="gray66">#666666</color>
+    <color name="gray66_75">#BF666666</color>
+    <color name="lime">#9CCC65</color>
+    <color name="lime_25">#409CCC65</color>
+    <color name="lime_80">#CC9CCC65</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_25">#40FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+</resources>

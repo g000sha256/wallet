@@ -1,0 +1,10 @@
+<resources>
+    <plurals name="feature_card">
+        <item quantity="few">%1$d бонуса</item>
+        <item quantity="many">%1$d бонусов</item>
+        <item quantity="one">%1$d бонус</item>
+        <item quantity="other">%1$d бонусов</item>
+        <item quantity="two">%1$d бонуса</item>
+        <item quantity="zero">%1$d бонусов</item>
+    </plurals>
+</resources>

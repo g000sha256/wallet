@@ -1,0 +1,34 @@
+<resources>
+    <string name="app">Кошелёк</string>
+
+    <string name="feature_card_balance">Баланс</string>
+    <string name="feature_card_category">Категория</string>
+    <string name="feature_card_certificate">Подарочный сертификат</string>
+    <string name="feature_card_date">Действует до</string>
+    <string name="feature_card_loyalty">Карта лояльности</string>
+    <string name="feature_card_number">Номер карты</string>
+    <string name="feature_card_status">Статус карты</string>
+    <string name="feature_card_status_default">Стандарт</string>
+    <string name="feature_card_status_gold">Золотая</string>
+    <string name="feature_card_status_platinum">Платиновая</string>
+    <string name="feature_card_status_silver">Серебряная</string>
+
+    <string name="feature_cards_dialog_other_show_categories">Показывать категории</string>
+    <string name="feature_cards_dialog_other_title">Прочее</string>
+    <string name="feature_cards_dialog_sort_sort_by_add_date">По дате добавления</string>
+    <string name="feature_cards_dialog_sort_sort_by_last_used">По дате использования</string>
+    <string name="feature_cards_dialog_sort_sort_by_name">По имени</string>
+    <string name="feature_cards_dialog_sort_sort_by_popular">По популярности</string>
+    <string name="feature_cards_dialog_sort_title">Сортировка</string>
+    <string name="feature_cards_dialog_title">Настройки</string>
+    <string name="feature_cards_error_button">Повторить</string>
+    <string name="feature_cards_error_message">Не удалось загрузить данные</string>
+    <string name="feature_cards_error_text">@string/feature_cards_error_message</string>
+    <string name="feature_cards_error_title">:(</string>
+    <string name="feature_cards_header_all">Все карты</string>
+    <string name="feature_cards_header_certificates">Подарочные сертификаты</string>
+    <string name="feature_cards_header_last">Последние карты</string>
+    <string name="feature_cards_header_popular">Популярные карты</string>
+    <string name="feature_cards_search">Поиск</string>
+    <string name="feature_cards_title">@string/app</string>
+</resources>
